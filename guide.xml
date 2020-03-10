@@ -1,19 +1,67 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TNT">
-    <display-name lang="pt">TNT</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="AE">
+    <display-name lang="pt">AE</display-name>
+    <url>http://www.hagah.com.br</url>
   </channel>
-  <channel id="Megapix">
-    <display-name lang="pt">Megapix</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.hagah.com.br</url>
   </channel>
-  <channel id="Space">
-    <display-name lang="pt">Space</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <url>http://www.hagah.com.br</url>
   </channel>
   <channel id="Cinemax">
     <display-name lang="pt">Cinemax</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD">
+    <display-name lang="pt">ESPN Brasil HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="ESPN+ HD">
+    <display-name lang="pt">ESPN+ HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <url>http://www.hagah.com.br</url>
   </channel>
 </tv>
