@@ -1,59 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RECORD">
-    <display-name lang="pt">RECORD</display-name>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="BAND">
-    <display-name lang="pt">BAND</display-name>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SBT">
-    <display-name lang="pt">SBT</display-name>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Globo">
-    <display-name lang="pt">Globo</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="OFF">
-    <display-name lang="pt">OFF</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Sportv 3">
-    <display-name lang="pt">Sportv 3</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Sportv 2">
-    <display-name lang="pt">Sportv 2</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="SporTV">
-    <display-name lang="pt">SporTV</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="GloboNews">
-    <display-name lang="pt">GloboNews</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="GNT">
-    <display-name lang="pt">GNT</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Multishow">
-    <display-name lang="pt">Multishow</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="+ GLOBOSAT">
-    <display-name lang="pt">+ GLOBOSAT</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="E!">
-    <display-name lang="pt">E!</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Fox Life">
-    <display-name lang="pt">Fox Life</display-name>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
 </tv>
